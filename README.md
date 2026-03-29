@@ -1,4 +1,4 @@
-# Planova — Plan Together, Celebrate Together
+# Planova- Plan Together, Celebrate Together
 
 A collaborative group planning app that makes it easy to organise trips, birthday surprises, events, and more — all in one place. No more scattered WhatsApp messages and forgotten Splitwise entries.
 
